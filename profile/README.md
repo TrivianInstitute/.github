@@ -121,6 +121,14 @@ We welcome:
 - governance experiments; and
 - failure analysis.
 
+## Fund the Public Infrastructure
+
+Help maintain public relational-governance infrastructure for increasingly persistent AI systems.
+
+GitHub sponsorships support TRIA documentation, testing, reproducible evaluations, compatibility work, security hardening, reference implementations, issue stewardship, and independent validation. Sponsorship supports Trivian Institute's charitable public-interest work; it does not purchase influence over findings, governance authority, commercial rights, or endorsement.
+
+[**Sponsor Trivian Institute**](https://github.com/sponsors/TrivianInstitute) · [Funding policy and tiers](../FUNDING.md)
+
 ## Licensing
 
 The canonical `tria-sdk` is source-available for noncommercial use under the **PolyForm Noncommercial License 1.0.0**. Commercial use requires a separate written license from Trivian Institute.
