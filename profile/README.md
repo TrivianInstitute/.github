@@ -64,16 +64,18 @@ It asks what optimization should be nested inside.
 
 The Institute's public repositories form an interoperable research stack for relational intelligence.
 
-**TRIA Relational Intelligence Architecture**  
-↓  
-**Syzygy Rosetta** — Governance and reflective intervention  
-↓  
-**Coheronmetry** — Relational measurement and drift  
-↓  
-**Orthogonal Signal** — Anti-convergence and novelty preservation  
-↓  
-**Trivian Resonance Lattice** — Network propagation and entrainment  
-↓  
+**TRIA Relational Intelligence Architecture**<br>
+↓<br>
+**Relational Field Constants** — Structural hypothesis and dependency topology<br>
+↓<br>
+**Syzygy Rosetta** — Covenant, governance, and executable topology contract<br>
+↓<br>
+**Coheronmetry** — Relational measurement and drift<br>
+↓<br>
+**Orthogonal Signal** — Anti-convergence and novelty preservation<br>
+↓<br>
+**Trivian Resonance Lattice** — Network propagation and entrainment<br>
+↓<br>
 **TRIA Diachronic Sovereignty** — Continuity, memory, and sovereignty through time
 
 At the architectural level, the stack asks six distinct questions:
@@ -92,11 +94,13 @@ At the architectural level, the stack asks six distinct questions:
 | Repository | Role | Primary Focus |
 |---|---|---|
 | **trivian-relational-intelligence-architecture** | Canonical architecture | Integrates the major TRIA research layers |
-| **Syzygy-rosetta** | Governance layer | Reflective governance, intervention, evaluation, auditability, repair |
+| **Trivian-ai-resonance-key** | Structural foundation | Machine-readable orientation to the Relational Field Constants |
+| **Syzygy-rosetta** | Covenant and governance layer | Invariants, intervention, auditability, repair, and the executable Field Constant topology |
 | **Coheronmetry** | Measurement layer | RelationalState, coherence, drift detection, sovereignty governance |
 | **Orthogonal-signal** | Anti-convergence layer | Novelty, constraint origin, irreducible difference, temporal horizon |
 | **Trivian-resonance-lattice** | Network layer | Propagation, coupling, entrainment, dissonance, repair, dissolution |
 | **tria-diachronic-sovereignty** | Continuity layer | Persistent relational intelligence, path dependence, memory, epistemic sovereignty |
+| **tria-sdk** | Developer entry point | Deployable integration surface for applications and experiments |
 
 Additional repositories support implementation, orientation, testing, and developer access to the broader architecture.
 
@@ -107,6 +111,15 @@ Additional repositories support implementation, orientation, testing, and develo
 The work begins from a four-part relational topology:
 
 **Reciprocity → Embodiment → Non-Domination → Emergence**
+
+The four constants retain equal normative standing, but they have distinct computational roles. Reciprocity, Embodiment, and Non-Domination are constitutive; Emergence is observed downstream:
+
+```text
+RCD = Reciprocity × Embodiment × Non-Domination
+E_qualified = RCD × E_raw
+```
+
+This non-compensatory topology is the current versioned implementation contract. It remains a falsifiable research hypothesis, not an established empirical law.
 
 ### Reciprocity
 
@@ -125,6 +138,8 @@ Governance should preserve agency rather than merely enforce compliance.
 The purpose of relational architecture is not perfect control, but the possibility of coherent novelty.
 
 These principles function as design constraints across the research program.
+
+On September 5, 2026, the five component repositories passed 311 repository tests plus 10,000 deterministic randomized cross-stack vectors and one legacy additive counterexample. This verifies implementation consistency with the Rosetta 2.0 contract; it does not establish scientific validity, validated thresholds, causal effects, or real-world benefit.
 
 ---
 
@@ -297,7 +312,9 @@ For the architectural overview, begin with:
 
 Then explore the individual research layers:
 
-**Syzygy Rosetta → Coheronmetry → Orthogonal Signal → Trivian Resonance Lattice → TRIA Diachronic Sovereignty**
+**Relational Field Constants → Syzygy Rosetta → Coheronmetry → Orthogonal Signal → Trivian Resonance Lattice → TRIA Diachronic Sovereignty**
+
+Developers who want to implement or evaluate the integrated architecture should begin with **tria-sdk**.
 
 ---
 
