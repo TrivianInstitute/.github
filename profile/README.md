@@ -53,14 +53,25 @@ The Institute's repositories form a research program around one architectural pr
 |---|---|
 | [`tria-sdk`](https://github.com/TrivianInstitute/tria-sdk) | Canonical developer SDK and execution boundary |
 | [`trivian-relational-intelligence-architecture`](https://github.com/TrivianInstitute/trivian-relational-intelligence-architecture) | Canonical architecture and research map |
-| [`Trivian-ai-resonance-key`](https://github.com/TrivianInstitute/Trivian-ai-resonance-key) | Orientation and machine-readable relational invariants |
-| [`Syzygy-rosetta`](https://github.com/TrivianInstitute/Syzygy-rosetta) | Reflective governance and intervention research |
+| [`Trivian-ai-resonance-key`](https://github.com/TrivianInstitute/Trivian-ai-resonance-key) | Relational Field Constant foundation and machine-readable orientation |
+| [`Syzygy-rosetta`](https://github.com/TrivianInstitute/Syzygy-rosetta) | Covenant, reflective governance, and executable topology contract |
 | [`Coheronmetry`](https://github.com/TrivianInstitute/Coheronmetry) | Relational state, coherence, drift, and sovereignty measurement |
 | [`Orthogonal-signal`](https://github.com/TrivianInstitute/Orthogonal-signal) | Difference preservation, novelty, and anti-convergence research |
 | [`Trivian-resonance-lattice`](https://github.com/TrivianInstitute/Trivian-resonance-lattice) | Network propagation, entrainment, repair, and dissolution |
 | [`tria-diachronic-sovereignty`](https://github.com/TrivianInstitute/tria-diachronic-sovereignty) | Continuity, memory, consent, provenance, and sovereignty through time |
 
 Developers do **not** need to install every research repository in order to use `tria-sdk`. The component repositories remain available for researchers who want to inspect, reproduce, falsify, or extend the underlying work.
+
+### Current Field Constant Topology
+
+The four constants retain equal normative standing while performing distinct computational roles. Reciprocity, Embodiment, and Non-Domination are constitutive; Emergence is observed downstream:
+
+```text
+RCD = Reciprocity × Embodiment × Non-Domination
+E_qualified = RCD × E_raw
+```
+
+This non-compensatory topology is the Rosetta 2.0 implementation contract and remains a falsifiable research hypothesis, not an established empirical law. On September 5, 2026, the five component repositories passed 311 repository tests plus 10,000 deterministic randomized cross-stack vectors and one legacy additive counterexample. Those results establish implementation consistency—not construct, threshold, causal, or external validity.
 
 ## What TRIA Adds
 
