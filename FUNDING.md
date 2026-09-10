@@ -19,12 +19,14 @@ One-time sponsorships at these amounts are also welcome. Sponsors at the $250 an
 
 ## What sponsorship does and does not fund
 
-Sponsorships support the charitable research and public-infrastructure work of **Trivian Institute**. They do not fund **Trivian Technologies**, grant governance authority, influence research findings, transfer intellectual property, or convey commercial-use rights.
+Sponsorships support the charitable research, education, and public-infrastructure work of **Trivian Institute**. They do not fund **Trivian Technologies**, grant governance authority, influence research findings, transfer intellectual property ownership, grant certification or endorsement, or provide special licensing privileges unavailable to the public.
 
-TRIA repositories are publicly available under repository-specific licenses. Much of the software is source-available for noncommercial use under PolyForm Noncommercial 1.0.0; research and documentation may use separate Creative Commons terms. Commercial licensing remains a distinct, arm's-length written agreement with Trivian Institute.
+Effective September 9, 2026, the licensor-owned public TRIA stack uses an open-source / open-knowledge model: covered software is released under **MPL-2.0**, and covered documentation, specifications, diagrams, and research prose are released under **CC BY-SA 4.0**, unless a repository or third-party file states otherwise. Commercial use is permitted subject to the applicable license.
+
+Sponsors receive the same public license rights as other users. Sponsorship supports stewardship of the commons; it does not purchase control of the commons.
 
 ## Accountability
 
 As sponsorship grows, the Institute will publish concise updates describing maintenance completed, releases and evaluation artifacts produced, independent testing supported, and current priorities. We will report work performed without overstating scientific validation or promising outcomes that evidence has not established.
 
-For grants, institutional underwriting, independent validation, or formal research partnership inquiries, contact [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org).
+For grants, institutional underwriting, independent validation, education partnerships, or formal research partnership inquiries, contact [connect@trivianinstitute.org](mailto:connect@trivianinstitute.org).
