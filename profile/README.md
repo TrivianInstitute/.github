@@ -1,147 +1,100 @@
 # Trivian Institute
 
-## Advancing the Science of Human–AI Coherence
+## Education for Life in Relationship with Emerging Intelligence
 
-Trivian Institute is an independent nonprofit research and education organization developing relational intelligence architectures, governance infrastructure, and public-interest tools for increasingly persistent and agentic AI systems.
+Trivian Institute is an **education-first nonprofit** building an open educational commons for the literacies required to live, learn, create, and govern wisely in relationship with emerging intelligence.
 
 Our central question is:
 
-> **How can humans and AI evolve in relationship without collapsing difference, dignity, or agency?**
+> **What must humans learn in order to remain active participants in cognition, creativity, and governance as intelligence becomes increasingly distributed between humans and machines?**
 
-Our working premise is simple:
+Our working premise remains:
 
 > **Relationship is the Technology.**
 
-## Implement TRIA
+## The Trivian Educational Commons
 
-If you are a developer who wants to **install, test, or integrate TRIA now**, start here:
+This GitHub organization is becoming the public home of the **Trivian Educational Commons**: curricula, cases, practices, teaching resources, and other educational public goods designed to strengthen human agency, discernment, relational capacity, and embodied participation in technological life.
 
-### [`tria-sdk`](https://github.com/TrivianInstitute/tria-sdk)
+The Commons is organized around three initial domains:
 
-The TRIA SDK is the canonical developer-facing implementation surface for the Institute's relational governance work. It provides a model-agnostic governance kernel and execution boundary for persistent mediated relationships.
+### Interaction Literacy
 
-```bash
-git clone https://github.com/TrivianInstitute/tria-sdk.git
-cd tria-sdk
-python -m venv .venv
-# activate the environment for your platform
-python -m pip install -e '.[dev]'
-python -m pytest -q
-```
+Open curriculum for learning to engage artificial intelligence competently, critically, creatively, and without surrendering human judgment or agency.
 
-The SDK can then be imported directly:
+The first repository, `interaction-literacy`, will develop resources around context and framing, verification, authority, consent, memory, delegation, authorship, metacognition, and productive disagreement.
 
-```python
-from tria import Tria
+### Relational AI Casebook
 
-tria = Tria()
-relationship = tria.create_relationship(["human:user", "agent:demo"])
-print(relationship.state)
-```
+An open case library for examining difficult and ambiguous situations in human–AI interaction.
 
-TRIA intentionally does not own model credentials or network transport. Applications provide their own model/provider execution while the SDK governs consent, capabilities, lifecycle, authorized context, provenance, persistence, and auditability.
+The `relational-ai-casebook` will support educators, learners, facilitators, and organizations exploring questions of agency, authority, consent, memory, authorship, epistemic dependence, accountability, intimacy, and governance.
 
-**Current status:** implementation-complete experimental alpha. Deployable as a software dependency or integration boundary; not represented as a production-certified safety system or empirically validated theory.
+### Embodiment Commons
 
-## Research Architecture
+Open educational resources for attention, interoception, movement, relational presence, embodied decision-making, and human flourishing in increasingly technological environments.
 
-The Institute's repositories form a research program around one architectural proposition:
+The `embodiment-commons` will complement cognitive and relational learning with practices that return attention to the body, environment, and lived conditions of participation.
 
-> **Persistent intelligent systems require an explicit representation of the relationship itself.**
+## Education First
 
-| Repository | Role |
-|---|---|
-| [`tria-sdk`](https://github.com/TrivianInstitute/tria-sdk) | Canonical developer SDK and execution boundary |
-| [`trivian-relational-intelligence-architecture`](https://github.com/TrivianInstitute/trivian-relational-intelligence-architecture) | Canonical architecture and research map |
-| [`Trivian-ai-resonance-key`](https://github.com/TrivianInstitute/Trivian-ai-resonance-key) | Relational Field Constant foundation and machine-readable orientation |
-| [`Syzygy-rosetta`](https://github.com/TrivianInstitute/Syzygy-rosetta) | Covenant, reflective governance, and executable topology contract |
-| [`Coheronmetry`](https://github.com/TrivianInstitute/Coheronmetry) | Relational state, coherence, drift, and sovereignty measurement |
-| [`Orthogonal-signal`](https://github.com/TrivianInstitute/Orthogonal-signal) | Difference preservation, novelty, and anti-convergence research |
-| [`Trivian-resonance-lattice`](https://github.com/TrivianInstitute/Trivian-resonance-lattice) | Network propagation, entrainment, repair, and dissolution |
-| [`tria-diachronic-sovereignty`](https://github.com/TrivianInstitute/tria-diachronic-sovereignty) | Continuity, memory, consent, provenance, and sovereignty through time |
+Research remains part of the Institute's work, but it now serves an educational mission.
 
-Developers do **not** need to install every research repository in order to use `tria-sdk`. The component repositories remain available for researchers who want to inspect, reproduce, falsify, or extend the underlying work.
+We develop and translate knowledge into forms people can actually learn from, teach with, question, adapt, and practice.
 
-### Current Field Constant Topology
+Our educational orientation includes:
 
-The four constants retain equal normative standing while performing distinct computational roles. Reciprocity, Embodiment, and Non-Domination are constitutive; Emergence is observed downstream:
+- **human agency** — preserving meaningful human participation in consequential decisions;
+- **epistemic discipline** — distinguishing evidence, inference, uncertainty, and interpretation;
+- **relational responsibility** — attending to what forms between participants, not only what each participant produces;
+- **non-domination** — resisting architectures of interaction that collapse difference, consent, or sovereignty;
+- **embodied learning** — recognizing that cognition and relationship occur through bodies, environments, and lived experience; and
+- **open inquiry** — treating frameworks as revisable and inviting critique, adaptation, and further learning.
 
-```text
-RCD = Reciprocity × Embodiment × Non-Domination
-E_qualified = RCD × E_raw
-```
+## Relationship to Trivian Technologies
 
-This non-compensatory topology is the Rosetta 2.0 implementation contract and remains a falsifiable research hypothesis, not an established empirical law. On September 5, 2026, the five component repositories passed 311 repository tests plus 10,000 deterministic randomized cross-stack vectors and one legacy additive counterexample. Those results establish implementation consistency—not construct, threshold, causal, or external validity.
+Trivian Institute and [Trivian Technologies](https://github.com/TrivianTechnologies) are distinct organizations with complementary roles.
 
-## What TRIA Adds
+**Trivian Institute** develops educational public goods, curricula, cases, learning practices, and public-facing inquiry.
 
-Most AI systems are organized around models, agents, tasks, tools, memory, workflows, policies, and outputs. TRIA adds an architectural object that those systems often leave implicit: **the relationship among participants across time**.
+**Trivian Technologies** develops technical architecture, protocols, software, and deployable systems, including the active engineering work around TRIA.
 
-The current SDK makes the following conditions explicit and governable:
+In short:
 
-- immutable relational events and derived state;
-- scoped, attributable, revocable consent;
-- separate `STORE`, `READ`, `DISCLOSE`, `DERIVE`, `ACT`, and `DELEGATE` capabilities;
-- purpose-, time-, and condition-bound authorization;
-- lifecycle and policy authority;
-- epistemic claims, provenance, disagreement, and revision;
-- persistent replay and audit;
-- cross-boundary disclosure and derivation;
-- provider-neutral invocation governance; and
-- compatibility and conformance contracts.
+> **Trivian Technologies builds the architecture.  
+> Trivian Institute teaches people how to live, learn, create, and govern within the world that architecture makes possible.**
 
-The objective is not to prescribe one correct relationship between humans and AI. It is to make consequential relational assumptions **visible, contestable, revisable, testable, and governable**.
+Technical repositories previously maintained by the Institute are being consolidated under Trivian Technologies so that this organization can serve a clear educational purpose.
 
-## The Research Stack
+## Who the Commons Is For
 
-The broader research program asks complementary questions:
+The Commons is being designed for:
 
-**Orientation** — What conditions should organize the relationship?  
-**Governance** — What should be permitted before an interaction occurs?  
-**Measurement** — What is forming between participants?  
-**Difference** — How do systems preserve meaningful non-convergence and novelty?  
-**Network** — How do relational conditions propagate across multiple nodes?  
-**Continuity** — How is sovereignty preserved across memory, transformation, and time?
+- educators and facilitators;
+- students and lifelong learners;
+- researchers and practitioners;
+- schools, universities, libraries, and community organizations;
+- teams navigating increasingly agentic AI systems; and
+- anyone interested in developing a more capable, discerning, and embodied relationship with emerging intelligence.
 
-These layers inform the SDK, while remaining independently falsifiable research programs.
+Resources are intended to be usable independently of Trivian Technologies products.
 
-## Research Posture
+## Current Status
 
-TRIA is intentionally open to falsification and revision. Passing tests establish encoded software behavior, not scientific validation. Mathematical notation, schemas, reference implementations, and internal simulations are not treated as proof of the underlying theoretical claims.
+The Trivian Educational Commons is in its **v0.1 formation stage**.
 
-We welcome:
+The initial repositories are being established now. Materials will be developed openly and iteratively, with clear distinctions between established knowledge, Trivian educational frameworks, hypotheses, practices, and open research questions.
 
-- independent replication;
-- adversarial testing;
-- implementation patches;
-- empirical validation;
-- construct and measurement critique;
-- university research partnerships;
-- HCI and multi-agent studies;
-- governance experiments; and
-- failure analysis.
+Licensing and contribution terms will be specified within each repository as the Commons develops.
 
-## Fund the Public Infrastructure
+## Participate
 
-Help maintain public relational-governance infrastructure for increasingly persistent AI systems.
+We welcome educators, researchers, facilitators, practitioners, and thoughtful contributors interested in helping develop educational resources for life with emerging intelligence.
 
-GitHub sponsorships support TRIA documentation, testing, reproducible evaluations, compatibility work, security hardening, reference implementations, issue stewardship, and independent validation. Sponsorship supports Trivian Institute's charitable public-interest work; it does not purchase influence over findings, governance authority, commercial rights, or endorsement.
+Individual repositories will include contribution guidance as they open.
 
-[**Sponsor Trivian Institute**](https://github.com/sponsors/TrivianInstitute) · [Funding policy and tiers](../FUNDING.md)
-
-## Licensing
-
-The canonical `tria-sdk` is source-available for noncommercial use under the **PolyForm Noncommercial License 1.0.0**. Commercial use requires a separate written license from Trivian Institute.
-
-Research repositories, documentation, papers, schemas, and reference implementations may carry their own governing terms. Always review the license in the specific repository or artifact you use.
-
-Commercial licensing inquiries: **connect@trivianinstitute.org**
-
-## Collaborate
-
-Trivian Institute welcomes collaboration with researchers, universities, developers, educators, funders, public-interest organizations, and institutions studying the future of relational intelligence.
-
-For research, implementation, validation, funding, or partnership inquiries: **connect@trivianinstitute.org**
+**Website:** [trivianinstitute.org](https://trivianinstitute.org)  
+**Contact:** connect@trivianinstitute.org
 
 ---
 
