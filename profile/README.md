@@ -14,27 +14,19 @@ Our working premise remains:
 
 ## The Trivian Educational Commons
 
-This GitHub organization is becoming the public home of the **Trivian Educational Commons**: curricula, cases, practices, teaching resources, and other educational public goods designed to strengthen human agency, discernment, relational capacity, and embodied participation in technological life.
+The Commons now spans seven public educational repositories. Each has a different role; together they support learning, facilitation, creative practice, and revision from experience.
 
-The Commons is organized around three initial domains:
+| Repository | Begin here |
+| --- | --- |
+| [Interaction Literacy](https://github.com/TrivianInstitute/interaction-literacy) | Curriculum and exercises on context, evidence, authority, delegation, and human judgment |
+| [Relational AI Casebook](https://github.com/TrivianInstitute/relational-ai-casebook) | Fictional cases for reasoning through consent, memory, authorship, disagreement, and accountability |
+| [Embodiment Commons](https://github.com/TrivianInstitute/embodiment-commons) | Optional practices for attention, environment, and embodied participation |
+| [Youth Interaction Literacy](https://github.com/TrivianInstitute/youth-interaction-literacy) | Age-responsive activities and a family/educator guide; the unpublished children's book is outside the repository |
+| [Educator Commons](https://github.com/TrivianInstitute/educator-commons) | Ready-to-run sessions, planning, access guidance, and formative feedback |
+| [Learning in Practice](https://github.com/TrivianInstitute/learning-in-practice) | A bounded way to document and question teaching experience; no actual field reports are yet published |
+| [Embodied Creative Writing](https://github.com/TrivianInstitute/embodied-creative-writing) | Craft activities and an adaptable course map for embodied writing and ethical AI collaboration; unpublished manuscripts are outside the repository |
 
-### Interaction Literacy
-
-Open curriculum for learning to engage artificial intelligence competently, critically, creatively, and without surrendering human judgment or agency.
-
-The first repository, `interaction-literacy`, will develop resources around context and framing, verification, authority, consent, memory, delegation, authorship, metacognition, and productive disagreement.
-
-### Relational AI Casebook
-
-An open case library for examining difficult and ambiguous situations in human–AI interaction.
-
-The `relational-ai-casebook` will support educators, learners, facilitators, and organizations exploring questions of agency, authority, consent, memory, authorship, epistemic dependence, accountability, intimacy, and governance.
-
-### Embodiment Commons
-
-Open educational resources for attention, interoception, movement, relational presence, embodied decision-making, and human flourishing in increasingly technological environments.
-
-The `embodiment-commons` will complement cognitive and relational learning with practices that return attention to the body, environment, and lived conditions of participation.
+Begin with a question that matters to you. The materials are designed to work without a paid or live AI account. Each repository states its maturity, contribution process, and license. These v0.1 materials are formative educational resources; their presence does not establish pilot results, effectiveness, professional certification, or technical validation.
 
 ## Education First
 
@@ -64,7 +56,7 @@ In short:
 > **Trivian Technologies builds the architecture.  
 > Trivian Institute teaches people how to live, learn, create, and govern within the world that architecture makes possible.**
 
-Technical repositories previously maintained by the Institute are being consolidated under Trivian Technologies so that this organization can serve a clear educational purpose.
+Active technical engineering repositories are maintained under Trivian Technologies. The Institute's repositories are the public educational home of the Commons.
 
 ## Who the Commons Is For
 
@@ -81,20 +73,19 @@ Resources are intended to be usable independently of Trivian Technologies produc
 
 ## Current Status
 
-The Trivian Educational Commons is in its **v0.1 formation stage**.
+The seven educational repositories contain v0.1 resources open to reading, critique, and adaptation. The materials await appropriate educator, learner, practitioner, and accessibility feedback; no pilot or effectiveness claim is implied. The repository READMEs identify the scope and limits of each resource.
 
-The initial repositories are being established now. Materials will be developed openly and iteratively, with clear distinctions between established knowledge, Trivian educational frameworks, hypotheses, practices, and open research questions.
-
-Licensing and contribution terms will be specified within each repository as the Commons develops.
+Educational content and documentation are offered under CC BY-SA 4.0 except where a repository states otherwise. Consult each repository's LICENSE and rights notice. Linking to an external work does not relicense it.
 
 ## Participate
 
 We welcome educators, researchers, facilitators, practitioners, and thoughtful contributors interested in helping develop educational resources for life with emerging intelligence.
 
-Individual repositories will include contribution guidance as they open.
+Each repository includes contribution guidance and community expectations. Share only material you are authorized to publish; the Learning in Practice repository gives additional boundaries for public teaching accounts.
 
 **Website:** [trivianinstitute.org](https://trivianinstitute.org)  
-**Contact:** connect@trivianinstitute.org
+**Education:** learn@trivianinstitute.org  
+**General inquiries:** connect@trivianinstitute.org
 
 ---
 
