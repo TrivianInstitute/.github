@@ -14,11 +14,12 @@ Our working premise remains:
 
 ## The Trivian Educational Commons
 
-The Commons now spans seven public educational repositories. Each has a different role; together they support learning, facilitation, creative practice, and revision from experience.
+The Commons now spans eight public educational repositories. Each has a different role; together they support learning, facilitation, creative practice, and revision from experience.
 
 | Repository | Begin here |
 | --- | --- |
 | [Interaction Literacy](https://github.com/TrivianInstitute/interaction-literacy) | Curriculum and exercises on context, evidence, authority, delegation, and human judgment |
+| [Interactive Dialogue](https://github.com/TrivianInstitute/interactive-dialogue) | Dialogue practices for metacognition, agency, evidence, and creative transfer, with a research map and evaluation plan |
 | [Relational AI Casebook](https://github.com/TrivianInstitute/relational-ai-casebook) | Fictional cases for reasoning through consent, memory, authorship, disagreement, and accountability |
 | [Embodiment Commons](https://github.com/TrivianInstitute/embodiment-commons) | Optional practices for attention, environment, and embodied participation |
 | [Youth Interaction Literacy](https://github.com/TrivianInstitute/youth-interaction-literacy) | Age-responsive activities and a family/educator guide; the unpublished children's book is outside the repository |
@@ -73,7 +74,7 @@ Resources are intended to be usable independently of Trivian Technologies produc
 
 ## Current Status
 
-The seven educational repositories contain v0.1 resources open to reading, critique, and adaptation. The materials await appropriate educator, learner, practitioner, and accessibility feedback; no pilot or effectiveness claim is implied. The repository READMEs identify the scope and limits of each resource.
+The eight educational repositories contain v0.1 resources open to reading, critique, and adaptation. The materials await appropriate educator, learner, practitioner, and accessibility feedback; no pilot or effectiveness claim is implied. The repository READMEs identify the scope and limits of each resource.
 
 Educational content and documentation are offered under CC BY-SA 4.0 except where a repository states otherwise. Consult each repository's LICENSE and rights notice. Linking to an external work does not relicense it.
 
