@@ -18,16 +18,26 @@ The Commons now spans eight public educational repositories. Each has a differen
 
 | Repository | Begin here |
 | --- | --- |
-| [Interaction Literacy](https://github.com/TrivianInstitute/interaction-literacy) | Curriculum and exercises on context, evidence, authority, delegation, and human judgment |
+| [Interaction Literacy](https://github.com/TrivianInstitute/interaction-literacy) | A beginner AI orientation, followed by curriculum and exercises on context, evidence, authority, delegation, and human judgment |
 | [Interactive Dialogue](https://github.com/TrivianInstitute/interactive-dialogue) | Dialogue practices for metacognition, agency, evidence, and creative transfer, with a research map and evaluation plan |
 | [Relational AI Casebook](https://github.com/TrivianInstitute/relational-ai-casebook) | Fictional cases for reasoning through consent, memory, authorship, disagreement, and accountability |
-| [Embodiment Commons](https://github.com/TrivianInstitute/embodiment-commons) | Optional practices for attention, environment, and embodied participation |
+| [Embodiment Commons](https://github.com/TrivianInstitute/embodiment-commons) | An Embodied Digital Life course and optional practices for attention, environment, movement, and rest |
 | [Youth Interaction Literacy](https://github.com/TrivianInstitute/youth-interaction-literacy) | Age-responsive activities and a family/educator guide; the unpublished children's book is outside the repository |
 | [Educator Commons](https://github.com/TrivianInstitute/educator-commons) | Ready-to-run sessions, planning, access guidance, and formative feedback |
 | [Learning in Practice](https://github.com/TrivianInstitute/learning-in-practice) | A bounded way to document and question teaching experience; no actual field reports are yet published |
 | [Embodied Creative Writing](https://github.com/TrivianInstitute/embodied-creative-writing) | Craft activities and an adaptable course map for embodied writing and ethical AI collaboration; unpublished manuscripts are outside the repository |
 
 Begin with a question that matters to you. The materials are designed to work without a paid or live AI account. Each repository states its maturity, contribution process, and license. These v0.1 materials are formative educational resources; their presence does not establish pilot results, effectiveness, professional certification, or technical validation.
+
+### Choose a learning path
+
+| If you want to | Start here |
+| --- | --- |
+| Understand the AI services you encounter | [Understanding AI in Everyday Life](https://github.com/TrivianInstitute/interaction-literacy/tree/main/orientation) — four lessons on mechanisms, data, incentives, and shared consequences, with fictional activities and a learner workbook |
+| Explore digital habits through attention, movement, and rest | [Embodied Digital Life: Attention, Breath, Movement, and Rest](https://github.com/TrivianInstitute/embodiment-commons/tree/main/courses/embodied-digital-life) — six units with evidence notes, practical environmental changes, and optional accessible practices |
+| Connect the ideas or teach a group | [Commons learning route](https://github.com/TrivianInstitute/educator-commons/blob/main/pathways/ai-literacy-and-embodied-digital-life.md) — one-hour introductions, links to existing courses and cases, and a shared transfer activity |
+
+Both pathways fit within the existing Commons repositories. They can be studied independently or together, without an AI account or required personal disclosure. Physical practice is optional. The embodied pathway distinguishes research findings from proposed practices and does not claim to treat digital-use problems or repair the brain.
 
 ## Education First
 
